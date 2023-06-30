@@ -39,6 +39,10 @@ Once the bot is up and running, you can use the following commands on Discord:
 
 Feel free to customize the bot and its functionality according to your needs.
 
+![grafik](https://github.com/saftman/mc-server-logger-dc/assets/80041584/099f0ce5-a125-494a-82fd-8002f0d8adce)
+![grafik](https://github.com/saftman/mc-server-logger-dc/assets/80041584/9c72da24-43e9-434b-8bb7-c6692e0199ca)
+
+
 ## Contributions
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
